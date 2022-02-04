@@ -8,5 +8,3 @@ If you want to use this application, you have to change database informations, e
 This project have some dependencies that are in /PasswordManager/src/main/libs path. You should include these jar files in project.
 
 Pictures:
-
-

@@ -7,6 +7,8 @@ If you want to use this application, you have to change database informations, e
 
 This project have some dependencies that are in /PasswordManager/src/main/libs path. You should include these jar files in project.
 
+App passwords (User entered) encrypted AES 256 and user passwords(login) hashed SHA 512.
+
 Pictures:
 
 ![1](https://user-images.githubusercontent.com/62218588/152511460-202cdcbb-565d-4ff4-aa22-d51913c0952c.jpg)
